@@ -55,6 +55,6 @@ go to the [website](https://kartik2220.github.io/kartikgajjar.github.io/) homepa
 
 if you get into any problems and errors while doing any process feel free to connect with us via [discussion](https://github.com/Kartik2220/kartikgajjar.github.io/discussions). connect with people to ask questions and suggest your new ideas to make the website more better.
 
-**thank you for coming here!** 
+**thank you for coming here!!** 
 
 
